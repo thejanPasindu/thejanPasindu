@@ -1,9 +1,5 @@
 ### Hi there 👋
-pie
-    title Pie Chart
-    "Dogs" : 386
-    "Cats" : 85
-    "Rats" : 150 
+
 
 <!--
 **thejanPasindu/thejanPasindu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
