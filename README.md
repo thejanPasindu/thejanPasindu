@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Pasindu, an encouraged, dedicated, hardworking and quick learning undergraduate who has a passion in programming and modern technologies.
 
 
 <!--
