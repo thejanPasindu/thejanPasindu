@@ -63,16 +63,3 @@ I specialize in designing reliable systems using Spring Boot, PostgreSQL, MongoD
 - Implemented scheduler-based payment processing
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thejanPasindu&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thejanPasindu&layout=compact&theme=dark)
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: (add your link here)
-- Email: (optional)
