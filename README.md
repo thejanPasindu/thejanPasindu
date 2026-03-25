@@ -1,5 +1,8 @@
 ### Hi there 👋
-I am Pasindu, an encouraged, dedicated, hardworking and quick learning undergraduate who has a passion in programming and modern technologies.
+
+I'm Pasindu, a Senior Software Engineer with experience in building scalable backend systems, payment integrations, and distributed architectures.
+
+I specialize in designing reliable systems using Spring Boot, PostgreSQL, MongoDB, and AWS services, with a strong focus on performance, scalability, and real-world problem solving.
 
 
 <!--
@@ -16,6 +19,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🚀 Tech Stack
+
+**Backend**
+- Java, Spring Boot, Hibernate
+- REST APIs, Microservices Architecture
+
+**Databases**
+- PostgreSQL, MongoDB, Redis
+
+**Cloud & DevOps**
+- AWS (SQS, EC2)
+- Docker, CI/CD (Jenkins, SonarQube)
+
+**Frontend / Mobile**
+- Android (Java), React (basic)
+
+**Tools**
+- Git, Linux, Maven
 
 
 **Languages I have used**
@@ -67,6 +89,36 @@ Here are some ideas to get you started:
 [![RGB Text Colorizer](https://img.shields.io/badge/-🌈&nbsp;&nbsp;RGB&nbsp;Text&nbsp;Colorizer-000000?style=flat)](https://github.com/adamalston/rgbTextColorizer)
 
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" /> -->
+
+## 🛠️ Currently Working On
+
+- Payment system integrations (Clover, PAX terminals)
+- Offline-first POS architecture with sync mechanisms
+- Subscription-based product systems
+- Improving system reliability and performance at scale
+
+## 💡 Key Experience
+
+- Designed and worked on **offline POS sync architecture** using local DB + AWS SQS
+- Handled **payment reconciliation systems** for terminal-based payments
+- Improved **system performance and reduced latency issues**
+- Worked on **distributed systems with message queues (FIFO ordering, deduplication)**
+- Led debugging and resolution of production issues
+
+## 📌 Featured Projects
+
+### 🔹 POS Sync System
+- Built a reliable sync mechanism using local storage + background workers
+- Integrated with AWS SQS FIFO queues for ordered processing
+
+### 🔹 Payment Gateway Integration
+- Integrated multiple payment providers
+- Implemented reconciliation and failure recovery mechanisms
+
+### 🔹 Subscription Platform
+- Designed product subscription system with billing cycles
+- Implemented scheduler-based recurring payments
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thejanPasindu&theme=dark)](https://github.com/thejanPasindu/github-readme-stats)
